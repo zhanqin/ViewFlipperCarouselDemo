@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+    duration：动画持续时间
+    fromXDelta：动画开始时 X坐标位置
+    toXDelta:动画结束时 X坐标位置
+        -->
+    <translate
+        android:duration="500"
+        android:fromXDelta="0"
+        android:toXDelta="-100%p"
+        />
+</set>
