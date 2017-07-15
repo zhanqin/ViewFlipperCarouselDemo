@@ -1,0 +1,5 @@
+# ViewFlipperCarouselDemo
+ViewFlipper实现自动轮播和手势滑动。
+ViewFlipperCarouselDemo是一个可以运行的demo，主要实现了启动页之后跳转到引导页，引导页是4张图片，引导页可自动轮播，也支持手势滑动。
+用简单的方法处理了手势滑动时停止ViewFlipper的自动滑动，手势滑动结束后开启ViewFlipper的自动滑动。
+代码结构很简单，注释也比较多，易懂实用。也适合用在app开发启动页加轮播引导页的功能实现部分。
